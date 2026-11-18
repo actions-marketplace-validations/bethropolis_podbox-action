@@ -1,5 +1,12 @@
 # podbox-action
 
+<p align="center">
+  <a href="https://github.com/bethropolis/podbox-action/releases"><img src="https://img.shields.io/github/v/tag/bethropolis/podbox-action?label=Version&style=for-the-badge&logo=github&color=b4befe&labelColor=181825&logoColor=cdd6f4" alt="Version"></a>
+  <a href="https://github.com/bethropolis/podbox-action/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/bethropolis/podbox-action/ci.yml?label=CI&style=for-the-badge&logo=githubactions&color=b4befe&labelColor=181825&logoColor=cdd6f4" alt="CI"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-cba6f7?style=for-the-badge&logo=opensourceinitiative&labelColor=181825&logoColor=cdd6f4" alt="License"></a>
+  <img src="https://img.shields.io/badge/Platform-Linux-89b4fa?style=for-the-badge&logo=linux&labelColor=181825&logoColor=cdd6f4" alt="Platform">
+</p>
+
 A GitHub Action that builds [podbox](https://github.com/bethropolis/podbox)
 environments from TOML files in your repo and pushes them to GHCR as prebuilt
 images.
